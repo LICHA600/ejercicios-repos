@@ -1,1 +1,3 @@
-
+echo "Este es el archivo A2.txt creado en Rama1" > A2.txt
+git add A2.txt
+git commit -m "Agregar A2.txt en Rama1"
