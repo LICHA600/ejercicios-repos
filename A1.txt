@@ -1,3 +1,4 @@
+
+Este es el archivo A1.txt en main
 git checkout main
 git merge Rama1
-Este es el archivo A1.txt en main
