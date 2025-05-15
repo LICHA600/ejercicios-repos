@@ -3,3 +3,4 @@ git add A2.txt
 git commit -m "Agregar A2.txt en Rama1"
 git checkout main
 git merge Rama1
+git merge Rama2
