@@ -1,0 +1,4 @@
+git checkout Rama1
+echo "Modificación de A2.txt en Rama1" >> A2.txt
+git add A2.txt
+git commit -m "Modificar A2.txt en Rama1"
